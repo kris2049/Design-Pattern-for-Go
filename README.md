@@ -7,3 +7,6 @@ It is a creation-based design pattern that creates a set of related objects with
 
 ## Simple Factory
 ![image](Images\Simple-Factory.png)
+
+
+## Singleton-Factory
